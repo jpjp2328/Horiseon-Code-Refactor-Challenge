@@ -48,7 +48,9 @@ THEN I find a concise, descriptive title
 
 ## Final Product
 
-- Link : 
+![](Horiseon%20Code/assets/images/Screenshot-horiseon.png)
+
+- Link : https://jpjp2328.github.io/Horiseon-Code-Refactor-Challenge
 
 
 
