@@ -39,13 +39,16 @@ THEN I find a concise, descriptive title
 - Applied same changes to CSS Style sheet
 - Alt attributes added to icon and images
 - Title changed
-- Check if everything is running (commit to apply changes)
+- Check if everything is running properly 
 
 ## Step 4
 - Combined and grouped class elements that share same properties
 - Reflect changes in CSS and edit to follow logical structure
-- Check if everything is running (commit to apply changes)
+- Check if everything is running properly 
 
+## Final Product
+
+- Link : 
 
 
 
