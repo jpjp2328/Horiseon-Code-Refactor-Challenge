@@ -32,7 +32,7 @@ THEN I find a concise, descriptive title
 
 ## Step 2
 - Check webpage to see if everything runs properly/meets accessability standards
-- Search Engine Optimazion hyperlink in the header fixed
+- Search Engine Optimazion hyperlink in the navbar fixed
 
 ## Step 3
 - HTML elements header, nav, section, article, aside, footer added in logical structure.
